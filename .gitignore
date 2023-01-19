@@ -1,2 +1,3 @@
+*.txt
 /obj/
- WPFContactForm/obj/Debug/
+WPFContactForm/obj/Debug/
