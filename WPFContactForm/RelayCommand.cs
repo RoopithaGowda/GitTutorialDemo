@@ -7,6 +7,7 @@ using System.Windows.Input;
 
 namespace WPFContactForm
 {
+    //changes saved
     public class RelayCommand : ICommand
     {
         #region command
