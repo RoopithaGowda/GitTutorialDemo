@@ -23,6 +23,7 @@ namespace WPFContactForm
         public MainWindow()
         {
             InitializeComponent();
+            this.DataContext = new WPFContactViewModel();
         }
     }
 }
