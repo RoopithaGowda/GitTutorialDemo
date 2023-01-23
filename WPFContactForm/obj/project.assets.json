@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1053545\\source\\repos\\WPFContactForm\\WPFContactForm\\WPFContactForm.csproj",
+      "projectUniqueName": "C:\\Work\\test\\WPFContactForm\\WPFContactForm.csproj",
       "projectName": "WPFContactForm",
-      "projectPath": "C:\\Users\\1053545\\source\\repos\\WPFContactForm\\WPFContactForm\\WPFContactForm.csproj",
+      "projectPath": "C:\\Work\\test\\WPFContactForm\\WPFContactForm.csproj",
       "packagesPath": "C:\\Users\\1053545\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1053545\\source\\repos\\WPFContactForm\\WPFContactForm\\obj\\",
+      "outputPath": "C:\\Work\\test\\WPFContactForm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\1053545\\AppData\\Roaming\\NuGet\\NuGet.Config",
