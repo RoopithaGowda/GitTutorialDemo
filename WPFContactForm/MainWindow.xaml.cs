@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace WPFContactForm
 {
     /// <summary>
-    /// Interaction logic to MainWindow.xaml
+    /// Interaction logics to MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {
